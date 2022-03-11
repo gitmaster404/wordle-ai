@@ -2,7 +2,7 @@
   <img width="124" height="124" src="public/icons/logo.png">
 </p>
 
-## NEW PR CHANGE!
+## NEW PR CHANGE!!
 
 # Wordle AI Player
 
