@@ -1,5 +1,6 @@
 "use strict";
 
+//Memorise LRU cache
 import memorise from "lru-memorise";
 import { wait } from "./utils/promise";
 import swal from "sweetalert2";

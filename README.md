@@ -2,6 +2,8 @@
   <img width="124" height="124" src="public/icons/logo.png">
 </p>
 
+## NEW PR CHANGE!!
+
 # Wordle AI Player
 
 This chrome extension is a wordle AI player.
