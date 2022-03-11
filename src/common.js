@@ -5,6 +5,7 @@ export const GAME_STATE = {
   LOST: "LOST",
 };
 
+//Game status
 export function setGameCurrentState(gameState) {
   chrome.storage.local.set({ gameState: gameState });
 }
