@@ -116,6 +116,7 @@ async function handleRuntimeMessage(request, sender) {
   }
 }
 
+//This is a comment
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   handleRuntimeMessage(request, sender).then(sendResponse);
   return true;
